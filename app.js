@@ -5,5 +5,5 @@ function onalert(){
 }
 
 function messagehandler(){
-    window.open("https://api.whatsapp.com/send/?phone=916398173467&text=hyy,%20I%20like%20you");
+    window.open("https://api.whatsapp.com/send/?phone=918690873991&text=hyy,%20I%20like%20you");
 }
