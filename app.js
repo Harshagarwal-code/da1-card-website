@@ -1,7 +1,5 @@
-const buttonparent = document.getElementById("buttonparent");
 function onalert(){
-
-    alert('nonono')
+    alert('nonono');
 }
 
 function messagehandler(){
